@@ -1,0 +1,28 @@
+.medical{
+    margin-top: 10px;
+    width: 1400px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.navigation{
+    background-color:  rgb(81, 163, 218);
+    height: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    font: bold 18px arial;
+    margin: 20px;
+  
+}
+.liste{
+    color: black;
+    background: rgb(81, 163, 218); 
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}

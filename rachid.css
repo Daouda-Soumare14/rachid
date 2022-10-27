@@ -1,0 +1,221 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.entete{
+    background:rgb(0, 255, 21);
+    border: 7px solid rgb(0, 255, 21);
+    padding: 15px;
+}
+header h1{
+font:bold 30px arial;
+color:black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background:rgb(0, 255, 21);
+
+}
+#page_contenu{
+    border: 2px solid rgb(0, 255, 21);
+    width: 1200px; 
+    margin: 25px auto;
+}
+.navigation{
+    background-color: rgb(0, 255, 21);
+    height: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    list-style: none;
+    font: bold 18px arial;
+    margin: 20px;
+  
+}
+.liste{
+    color: black;
+    background: rgb(0, 255, 21);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.corps{
+    float: left;
+    width: 800px;
+    margin: 20px;
+    padding: 10px;
+    background:  rgb(0, 255, 21);
+}
+.cote{
+    float: right;
+    width: 240px;
+    margin: 35px;
+    padding: 10px;
+    background:white ;
+    border: 3px solid rgb(0, 255, 21);
+    border-radius: 5px;
+}
+.art{
+    color: black;
+}
+article{
+    background:white ;
+    padding: 5px;
+    margin-bottom: 20px;
+   
+}
+.medical{
+    margin: 10px;
+    padding: 15px;
+    width:735px;
+    height: 380px;
+    border: 5px solid rgb(0, 255, 21);
+    border-radius: 5px;
+
+}
+p{
+    background:  rgb(0, 255, 21);
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    background: white;
+    border: 5px solid rgb(0, 255, 21);
+    border-radius: 5px;
+    height: 40px;
+    padding-top: 10px;
+
+}
+.sante{
+    margin: 10px;
+    padding: 7px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid  rgb(0, 255, 21);
+    border-radius: 5px;
+    background: rgb(0, 255, 21);
+}
+.sante{
+    margin: 10px;
+    padding: 7px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid rgb(0, 255, 21);
+    border-radius: 5px;
+    background: rgb(0, 255, 21);
+}
+.sante{
+    margin: 10px;
+    padding: 7px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid rgb(0, 255, 21);
+    border-radius: 5px;
+    background: rgb(0, 255, 21);
+}
+.sante{
+    margin: 10px;
+    padding: 7px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid  rgb(0, 255, 21);
+    border-radius: 5px;
+    background: rgb(0, 255, 21);
+}
+.sante{
+    margin: 10px;
+    padding: 7px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid  rgb(0, 255, 21);
+    border-radius: 5px;
+    background: rgb(0, 255, 21);
+}
+.sante{
+    margin: 10px;
+    padding: 7px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid  rgb(0, 255, 21);
+    border-radius: 5px;
+    background: rgb(0, 255, 21);
+}
+.sante{
+    margin: 10px;
+    padding: 7px;
+    width: 200px;
+    height: 100px;
+    border: 5px solid  rgb(0, 255, 21);
+    border-radius: 5px;
+     background: rgb(0, 255, 21);
+}
+  
+  .pied {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#000000;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .list-inline {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .social> a{
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid rgb(0, 0, 0);
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+.social{
+    opacity:0.9;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:rgb(250, 24, 2);
+    margin-bottom:0;
+  }
+  .pied{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    border-top: floralwhite;
+    background: floralwhite;
+
+}
+  
+  /* Credit to https://epicbootstrap.com/snippets/footer-basic */
